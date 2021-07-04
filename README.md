@@ -16,7 +16,7 @@
 
 **读书会详细介绍**：[见Sophon Academy公众号文章](https://mp.weixin.qq.com/s/KWYJDZ00eyUXMniMQ0O14Q)
 
-**关注公众号关注读书会最新动态**：
+<font color=red>**读书会每期将整理成详实的文章发表在Sophon Academy公众号**</font>，**关注公众号追踪读书会最新动态**：
 
 <img src="./officalacount_qrcode.bmp" alt="drawing" width="200"/>
 
