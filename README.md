@@ -1,4 +1,8 @@
 # Cognitive-Computational-Neuroscience-online-Reading-Club
+**第一期书籍**：[Theoretical Neuroscience-Peter Dayan and L.F. Abbott](https://ltudsct96t.feishu.cn/file/boxcnlMJL1ZxaFJ0bJccqJTUrud)
+
+<img src="./bookcover.png" alt="drawing" width="200"/>
+
 **CCNoRC目的**：
 
 阅读认知计算神经科学(Cognitive Computational Neuroscience) / 计算精神病 (Computational Psychiatry) 相关的经典书目和章节，建立学科框架，扎实基础知识。
@@ -10,11 +14,15 @@
 3. 周四晚8点到10点（北京时间），采用腾讯会议的形式。
 4. 读书会第1期预计招募8-10人
 
-**请加小助手微信入群**：
+**读书会详细介绍**：[见Sophon Academy公众号文章](https://mp.weixin.qq.com/s/KWYJDZ00eyUXMniMQ0O14Q)
+
+**关注公众号关注读书会最新动态**：
+
+<img src="./officalacount_qrcode.bmp" alt="drawing" width="200"/>
+
+**请加小助手微信进入计算精神病交流群**：
 
 <img src="./logo.jpeg" alt="drawing" width="200"/>
-
- 
 
 ## 日程安排
 
