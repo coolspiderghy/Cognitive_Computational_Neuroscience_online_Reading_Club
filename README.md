@@ -30,6 +30,6 @@
 | :--: | :--------------------------: | :-----: | -------------------------------------------------- | ------------------------------------------------------------ |
 |  1   |  9.2 Classical Conditioning  | 6月17日 | 吕同学<br/>李同学<br/>雷同学<br/>陈同学<br/>张同学 | [PPT1](https://ltudsct96t.feishu.cn/file/boxcnclS9zu3EIU4GMcXQCLTcgd),[PPT2](https://ltudsct96t.feishu.cn/file/boxcnwoeIdkF14LGHqlUtCxDPj6) |
 |  2   |   9.3 Static Action Choice   | 7月1日  | 王同学<br/>郭同学<br/>黄同学<br/>沈同学<br/>蒋同学 | [PPT](https://ltudsct96t.feishu.cn/file/boxcnZyM3rdKoglEATgoD8d6xOQ),[视频](https://ltudsct96t.feishu.cn/file/boxcnzCy6tI12HQj8YyZQ9zOiFg) |
-|  3   | 9.4 Sequential Action Choice | 7月15日 | 蔡同学<br/>耿同学<br/>王同学<br/>于同学<br/>杨同学 | [PPT](a),[视频]()                                            |
-|  4   |           Appendix           | 7月29日 | 周同学<br/>金同学<br/>谭同学<br/>杨同学<br/>李同学 | [PPT](a),[视频]()                                            |
+|  3   | 9.4 Sequential Action Choice | 7月15日 | 蔡同学<br/>耿同学<br/>王同学<br/>于同学<br/>杨同学 | [PPT](https://ltudsct96t.feishu.cn/file/boxcn7iINGcxliqfA2FzBAglNKe ),[视频](https://ltudsct96t.feishu.cn/file/boxcnuyHLs0tdqAwDw7zIjM13me) |
+|  4   |           Appendix           | 7月29日 | 周同学<br/>金同学<br/>谭同学<br/>杨同学<br/>李同学 | [PPT](https://ltudsct96t.feishu.cn/file/boxcn2R3u3HlhHKkJhyTuVgMvbE),[视频](https://ltudsct96t.feishu.cn/file/boxcn2eEOEzSpjLU8uUCXPvPwRe) |
 
